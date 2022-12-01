@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{AD2A356B-95E3-40AA-B33C-F568651D1CD2}">
+	<children>
+		<child name="DemoTestProject1" key="{72CAE474-5B8A-4B2E-BE9B-D093F3AD123E}" path="DemoTestProject1\DemoTestProject1.mds" />
+		<child name="DemoTestProject2" key="{A34D3DFB-8739-4856-8988-B2FBF9D61C54}" path="DemoTestProject2\DemoTestProject2.mds" />
+		<child name="NotepadProject" key="{5389815E-8293-42F6-B157-4BC8D92BBACE}" path="DemoManagingProjects\NotepadProject.mds" />
+		<child name="KeywordSample" key="{7DD9EB76-A02D-46DD-9F40-452B55C4094C}" path="KeywordSample\KeywordSample.mds" />
+	</children>
+	<testItems key="{4744E3DC-FA1C-46B9-8C7B-227933CF9ACC}">
+		<children>
+			<testItem key="{72CAE474-5B8A-4B2E-BE9B-D093F3AD123E}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{A34D3DFB-8739-4856-8988-B2FBF9D61C54}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{5389815E-8293-42F6-B157-4BC8D92BBACE}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{7DD9EB76-A02D-46DD-9F40-452B55C4094C}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{6BD4E312-DB4E-4E19-8784-749BDE5FFDB8}" />
+	<analysis key="{0B09D828-3CA5-489D-8273-E1625786B664}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

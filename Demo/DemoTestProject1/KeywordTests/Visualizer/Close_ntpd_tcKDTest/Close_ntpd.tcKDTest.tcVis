@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{56F0FF6F-2D24-4747-864F-0D8923D4806F}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="44844.6346412037" objectName="Aliases.notepad.wndNotepad" objectLeft="0" objectTop="0" objectRight="768" objectBottom="381" clickPointX="-1" clickPointY="-1" imageFileName="tcvi1313713906226480.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="44844.6346643519" objectName="Aliases.notepad.dlgNotepad.Notepad.CtrlNotifySink.btnDontSave" objectLeft="178" objectTop="101" objectRight="270" objectBottom="124" clickPointX="208" clickPointY="107" imageFileName="tcvi1313715812226481.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

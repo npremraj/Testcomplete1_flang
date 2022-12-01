@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{1C954CF7-8390-4813-A62A-51A10ADBF033}" version="1400" key="{374A87E3-FABB-4B1F-B4C1-2B70BF388CB7}" typeId="{1C954CF7-8390-4813-A62A-51A10ADBF033}">
+	<config nodeName="ManualTest1">
+		<stepInfo id="TEST_0" enabled="True" key="{D26C0350-C1A7-4C38-8AAB-9822722679D1}" contentKey="{65469E64-6206-4FD1-9340-4367450C0B36}" caption="Manual Test" description="Validate dropdown" notes="" iconFileName="" kdtMoniker="" kdtConvertFrom="{00000000-0000-0000-0000-000000000000}" instructionsURL="Manual Test.htm" xmlFileName="" xslFileName="" />
+		<resume enabled="False" stepID="" />
+	</config>
+	<testData />
+	<data />
+</Root>

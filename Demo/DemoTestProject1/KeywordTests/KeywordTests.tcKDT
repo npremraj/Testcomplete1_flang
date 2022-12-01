@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="Open_ntpd" key="{A7B9CCFB-F130-4291-B41F-6854AF599B31}" path="Open_ntpd.tcKDTest" />
+		<child name="edit_ntpd" key="{3A37ACBE-9D1C-4F6D-9B58-F0AFC04A2648}" path="edit_ntpd.tcKDTest" />
+		<child name="Close_ntpd" key="{56F0FF6F-2D24-4747-864F-0D8923D4806F}" path="Close_ntpd.tcKDTest" />
+	</children>
+</Root>

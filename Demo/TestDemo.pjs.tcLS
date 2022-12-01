@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="data">
+			<Node name="{24b6fa0b-0143-461a-9758-aeb9e9a9428b}">
+				<Prp name="default project" type="S" value="{72CAE474-5B8A-4B2E-BE9B-D093F3AD123E}"/>
+			</Node>
+			<Node name="{5389815e-8293-42f6-b157-4bc8d92bbace}">
+				<Prp name="relpath" type="S" value="DemoManagingProjects\NotepadProject.mds.tcLS"/>
+			</Node>
+			<Node name="{72cae474-5b8a-4b2e-be9b-d093f3ad123e}">
+				<Prp name="relpath" type="S" value="DemoTestProject1\DemoTestProject1.mds.tcLS"/>
+			</Node>
+			<Node name="{7dd9eb76-a02d-46dd-9f40-452b55c4094c}">
+				<Prp name="relpath" type="S" value="KeywordSample\KeywordSample.mds.tcLS"/>
+			</Node>
+			<Node name="{a34d3dfb-8739-4856-8988-b2fbf9d61c54}">
+				<Prp name="relpath" type="S" value="DemoTestProject2\DemoTestProject2.mds.tcLS"/>
+			</Node>
+			<Node name="logs">
+				<Prp name="key" type="S" value="{F2DA98A5-4F9F-4AB7-9227-72B8C17D58C0}"/>
+				<Prp name="relpath" type="S" value="Log"/>
+			</Node>
+			<Node name="variables"/>
+		</Node>
+		<Prp name="signature" type="S" value="{71078212-FAEB-4856-A901-B237C89E6B5C}"/>
+	</Node>
+</Nodes>
